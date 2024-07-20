@@ -12,7 +12,7 @@ Poor sections of the society who lack an internet connection should be able to s
 
 **ICD Code Prediction From Medical Records**
 
-The full project report is contained in [BD4H_ICD_Prediction_Paper_Final.pdf](./BD4H_ICD_Prediction_Paper_Final.pdf). The presentation for this work is available on [YouTube](https://www.youtube.com/watch?v=H4Ngmx9sW9Q). The source code for this work is in [this](https://github.gatech.edu/akumar689/bd4h) GitHub repository (you need @gatech login). Also, amde available in [this](https://colab.research.google.com/drive/1bfm9I4EvL9TeeLj5lxe94CegrmO4VZvF?usp=sharing) Google Colab notebook.
+The full project report is contained in [BD4H_ICD_Prediction_Paper_Final.pdf](./BD4H_ICD_Prediction_Paper_Final.pdf). The presentation for this work is available on [YouTube](https://www.youtube.com/watch?v=H4Ngmx9sW9Q). The source code for this work is in [this](https://github.gatech.edu/akumar689/bd4h) GitHub repository (you need @gatech login). Also, made available in [this](https://colab.research.google.com/drive/1bfm9I4EvL9TeeLj5lxe94CegrmO4VZvF?usp=sharing) Google Colab notebook.
 
 ## Abstract
 
